@@ -20,16 +20,16 @@ public class Conf extends SimpleConfig {
     public static EmbedInfo EMBED = new EmbedInfo();
 
     public static class BotInfo {
-        public static String TOKEN = "NzE0ODg1OTMzMDY0OTEyOTA2.Xs1LaA.sOFmoVbJSEBXzc7brFbiIvqW4G4";
-        public static String PREFIX = "$";
-        public static String GUILD = "639650124695470093";
+        public static String TOKEN = "TOKEN";
+        public static String PREFIX = "";
+        public static String GUILD = "GUILD";
         public static String HELP_FORMAT = "`{0}` **»** {1} \n";
     }
 
     public static class EmailVerification {
         public static String HOST = "imap.mail.yahoo.com";
-        public static String EMAIL = "lukewassung@yahoo.com";
-        public static String PASSWORD = "hyxvnhemlfcmhvvv";
+        public static String EMAIL = "example@yahoo.com";
+        public static String PASSWORD = "passwrod";
         public static String FOLDER_TO_SCAN = "PayPal";
         public static Date LAST_SCANNED_DATE = null;
     }
