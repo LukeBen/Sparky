@@ -1,0 +1,27 @@
+{
+  "BOT_INFO": {
+    "TOKEN": "NzE0ODg1OTMzMDY0OTEyOTA2.Xs1LaA.sOFmoVbJSEBXzc7brFbiIvqW4G4",
+    "PREFIX": "$",
+    "GUILD": "639650124695470093",
+    "HELP_FORMAT": "`{0}` **»** {1} \n"
+  },
+  "TICKETS": {
+    "MAXIMUM_TICKETS": 2,
+    "TICKET_STAFF": "702663981763919982",
+    "TICKET_CATEGORY": "702663981038436452"
+  },
+  "VERIFICATION": {
+    "HOST": "imap.mail.yahoo.com",
+    "EMAIL": "lukewassung@yahoo.com",
+    "PASSWORD": "hyxvnhemlfcmhvvv",
+    "FOLDER_TO_SCAN": "PayPal",
+    "LAST_SCANNED_DATE": {
+      "DATE": 1597509834626
+    }
+  },
+  "EMBED": {
+    "COLOR": "#ffd900",
+    "EMBED_FOOTER": "Template Footer",
+    "EMBED_THUMBNAIL": "https://cdn.discordapp.com/attachments/715183947960680519/741414661328601088/Logo_Outline.png"
+  }
+}
